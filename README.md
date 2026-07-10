@@ -20,6 +20,9 @@ This Power BI dashboard analyzes business sales performance and provides insight
 - Sales by Category
 - Sales by Region
 - Top Selling Products
+
+TASK-2
+
 - Top Customers Analysis
 
 ## Files
